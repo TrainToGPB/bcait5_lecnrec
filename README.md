@@ -118,7 +118,7 @@ $ sudo npm start
 <br>
 
 ## 👨‍👨‍👦‍👦 팀 구성 및 역할
-![image](https://github.com/TrainToGPB/bcait5_lecnrec/assets/114007062/ddc6fdbd-5d1b-4bbe-8c81-16b3dcba549f)
+![Untitled](img/team.png)
 
 
 <br>
